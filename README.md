@@ -35,8 +35,9 @@ The challenge is to:
 1. **Monthly Revenue Trend** – Line chart showing revenue changes over time  
 2. **Revenue by Region** – Bar chart showing revenue contribution of each region  
 3. **Top 5 Products by Revenue** – Horizontal bar chart for best-selling products  
-4. **Payment Method Distribution** – Pie chart showing revenue percentage by payment method  
-5. **KPI Cards** – Total Revenue, Total Units Sold, Average Order Value  
+4. **Payment Method Distribution** – Pie chart showing revenue percentage by payment method
+![image alt](https://github.com/drenu04/E-Commerce-Sales-Insights/blob/aaeedc570c2616da0a57a752da44f5ce97373038/Revenue_by_Payment.png)
+6. **KPI Cards** – Total Revenue, Total Units Sold, Average Order Value  
 
 ---
 
