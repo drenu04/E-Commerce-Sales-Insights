@@ -32,12 +32,19 @@ The challenge is to:
 ---
 
 ## Important Charts
-1. **Monthly Revenue Trend** – Line chart showing revenue changes over time  
-2. **Revenue by Region** – Bar chart showing revenue contribution of each region  
-3. **Top 5 Products by Revenue** – Horizontal bar chart for best-selling products  
+1. **Monthly Revenue Trend** – Line chart showing revenue changes over time
+   <img src="https://github.com/drenu04/E-Commerce-Sales-Insights/blob/378bc7b67fbc372eddccf1c684ba95e1d14ed1d7/Monthly_Trend.png" width="500"/>
+   
+2. **Revenue by Region** – Bar chart showing revenue contribution of each region
+   <img src="https://github.com/drenu04/E-Commerce-Sales-Insights/blob/378bc7b67fbc372eddccf1c684ba95e1d14ed1d7/Revenue_by_Region.png?raw=true" width="500"/>
+ 
+3. **Top 5 Products by Revenue** – Horizontal bar chart for best-selling products
+   <img src="https://github.com/drenu04/E-Commerce-Sales-Insights/blob/378bc7b67fbc372eddccf1c684ba95e1d14ed1d7/Top_5_Products.png?raw=true" width="500"/>
+
 4. **Payment Method Distribution** – Pie chart showing revenue percentage by payment method
-<img src="https://github.com/drenu04/E-Commerce-Sales-Insights/blob/aaeedc570c2616da0a57a752da44f5ce97373038/Revenue_by_Payment.png" width="500"/>
-6. **KPI Cards** – Total Revenue, Total Units Sold, Average Order Value  
+   <img src="https://github.com/drenu04/E-Commerce-Sales-Insights/blob/aaeedc570c2616da0a57a752da44f5ce97373038/Revenue_by_Payment.png" width="500"/>
+   
+5. **KPI Cards** – Total Revenue, Total Units Sold, Average Order Value  
 
 ---
 
